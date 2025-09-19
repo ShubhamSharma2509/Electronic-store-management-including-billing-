@@ -1,4 +1,4 @@
-**Electronic Store Management** Python project is a GUI application designed to efficiently manage various aspects of an electronic store. 
+**Electronical Store System** Python project is a GUI application designed to efficiently manage various aspects of an electronic store. 
 The project Electronic Store Management System is a complete Desktop based application designed on Python using Visual Studio Software. The main aim of the project is to develop Electronic Store Inventory Management System Model software in which all the information regarding the stock of the organization will be presented. It is an Intranet based desktop application which has admin component to manage the inventory and maintenance of the inventory system.
 
 This desktop application is based on the management of stock of an Electronic Store. The application contains general Electronic Store profile, sales details, Purchase details and the remaining stock that are presented in the Electronic Store. There is a provision of updating the inventory also. This application also provides the remaining balance of the stock as well as the details of the balance of transaction.
